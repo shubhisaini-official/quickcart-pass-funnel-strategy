@@ -2,6 +2,7 @@
 End-to-end growth funnel and conversion strategy for quick-commerce subscriptions (QuickCart Pass). Features a 5-stage behavioral lifecycle framework, channel budget allocation, personalized push notification copy templates, checkout A/B testing triggers, and core retention metrics.
 # 🛒 QuickCart Pass: End-to-End Growth Funnel & Conversion Strategy
 > **Solving Quick-Commerce Cart Abandonment & Driving High-LTV Subscription Retention**
+> **[Download / View the Executive Presentation Deck (PDF)](./QuickCart-Pass.pdf)**
 
 [![Domain](https://img.shields.io/badge/Domain-Quick--Commerce%20%7C%20Growth%20Marketing-orange)](#)
 [![Focus](https://img.shields.io/badge/Focus-Funnel%20Optimization%20%26%20A%2FB%20Testing-blue)](#)
